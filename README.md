@@ -1,4 +1,4 @@
-#Continued support for phison kernel module.
+# Continued support for phison kernel module.
 ## phison kernel module is for PCcard (PCIe) SSD's. They contain a IDE controller.
 
 * Copy phison-VERSION (replcace VERSION with the version of said folder) to /usr/src
