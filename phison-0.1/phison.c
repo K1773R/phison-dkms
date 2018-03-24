@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2006		Red Hat <evan_ko@phison.com>
+ * Copyright (C) 2018		Xeha <Xeha@i2pmail.org>
  *
  *  May be copied or modified under the terms of the GNU General Public License
  *
