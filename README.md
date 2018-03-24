@@ -1,4 +1,4 @@
-Copy phison-VERSION to /usr/src
+Copy phison-VERSION (replcace VERSION with the version of said folder) to /usr/src
 
 Install with:
 
